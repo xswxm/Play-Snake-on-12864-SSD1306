@@ -60,9 +60,11 @@ sudo python snake.py 1
 sudo python snake.py 2
 ```
 ### How to Play
-Control: Press 'w', 'a', 's', 'd';
-Speed up/remove effect: Press 'q';
-Exit game: Press 'x'.
+Control: Press 'w', 'a', 's', 'd'
+
+Speed up/remove effect: Press 'q'
+
+Exit game: Press 'x'
 
 License
 ----
